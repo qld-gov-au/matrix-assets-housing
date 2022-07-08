@@ -2,4 +2,4 @@
 
 This repository provides bundled JS as well as compressed JS and CSS for Squiz Matrix gitbridge.
 
-See https://github.com/qld-gov-au/matrix-assets-boilerplate for source repository
+See https://github.com/qld-gov-au/matrix-assets-housing for source repository
